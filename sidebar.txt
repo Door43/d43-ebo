@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ebo:home|Door43 (ebo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ebo|d43-ebo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ebo/archive/master.zip|d43-ebo.zip]]
+
+**Recent Changes**
+{{changes>ns = ebo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ebo|Ethnologue data]]
+
